@@ -2,7 +2,7 @@
 #### Full Stack Web Developer Jr.
 - 👩🏻‍💻 I'm an industrial engineer passionate by programming.
 - 🤓 My curiosity led me to become a full stack web developer.  
-- 💻 My commitment and teamwork help me to have a relevant performance in projects.
+- 💻 Perseverance and commitment are part of my performance.
 - 🌱 I'm always learning and doing my best.
 
 #### Programming Skills:
