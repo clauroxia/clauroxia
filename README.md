@@ -9,7 +9,7 @@
 🟨 JavaScript
 ⚛ React
 💎 Ruby
-🔴 Ruby on Rails
+🔴 Rails
 📱 HTML & CSS
 
 
