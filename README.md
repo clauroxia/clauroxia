@@ -7,13 +7,9 @@
 
 #### Programming Skills:
 🟨 JavaScript
-
 ⚛ React
-
 💎 Ruby
-
 🔴 Ruby on Rails
-
 📱 HTML & CSS
 
 
