@@ -5,7 +5,7 @@
 - 💻 Perseverance and commitment are part of my performance.
 - 🌱 I'm always learning and doing my best.
 
-#### Programming Skills:
+#### Programming skills:
 🟨 JavaScript
 ⚛ React
 💎 Ruby
@@ -16,6 +16,7 @@
 🐘 PostgreSQL
 🟣 Insomnia
 🎨 Figma
+
 
 
 
