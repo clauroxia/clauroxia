@@ -1,4 +1,4 @@
-### Hi everyone, it's Claudia! 👋
+### Hi everyone, I'm Claudia! 👋
 #### Full Stack Web Developer Jr.
 - 👩🏻‍💻 I'm an industrial engineer passionate about programming.
 - 🤓 My curiosity led me to become a full stack web developer.  
