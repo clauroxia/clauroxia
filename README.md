@@ -14,6 +14,7 @@
 
 #### Another tools:
 🐘 PostgreSQL
+🐳 Docker
 🟣 Insomnia
 🎨 Figma
 
