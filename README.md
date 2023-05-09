@@ -10,10 +10,12 @@
 ⚛ React
 💎 Ruby
 🔴 Rails
+🐘 PHP
 📱 HTML & CSS
 
 #### Another tools:
 🐘 PostgreSQL
+🐬 MySQL
 🐳 Docker
 🟣 Insomnia
 🎨 Figma
