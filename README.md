@@ -4,7 +4,7 @@
 - 🤓 My curiosity led me to become a full stack web developer.  
 - 💻 Perseverance and commitment are part of my performance.
 - 🌱 I'm always learning and doing my best.
-- 📲 For work, reach me out at: berriosl.claudia@gmail.com
+- 📲 For work, reach out to me at: berriosl.claudia@gmail.com
 
 #### Programming skills:
 🟨 JavaScript
